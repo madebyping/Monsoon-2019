@@ -1,0 +1,51 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Rustico-Regular
+FamilyName:Rustico
+StyleName:Regular
+MenuName:Rustico
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Rustico Regular
+WritingScript:Roman
+OutlineFileName:\Rustico-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:149984
+FileModTime:1504488327
+NameArray:0,Mac,4,Rustico Regular
+NameArray:0,Win,1,Rustico
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SegoePrint
+FamilyName:Segoe Print
+StyleName:Regular
+MenuName:Segoe Print
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Segoe Print
+WritingScript:Roman
+OutlineFileName:\segoepr.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:172448
+FileModTime:1474082384
+NameArray:0,Mac,4,Segoe Print
+NameArray:0,Win,1,Segoe Print
+%EndFont
+

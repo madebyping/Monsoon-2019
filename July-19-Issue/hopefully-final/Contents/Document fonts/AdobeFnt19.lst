@@ -1,0 +1,75 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Bold
+FamilyName:Oswald
+StyleName:Bold
+MenuName:Oswald
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Oswald Bold
+WritingScript:Roman
+OutlineFileName:\Oswald-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74412
+FileModTime:1564574896
+NameArray:0,Mac,4,Oswald Bold
+NameArray:0,Win,1,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1564574892
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-Light
+FamilyName:Oswald
+StyleName:Light
+MenuName:Oswald
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Oswald Light
+WritingScript:Roman
+OutlineFileName:\Oswald-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71576
+FileModTime:1564574902
+NameArray:0,Mac,4,Oswald Light
+NameArray:0,Win,1,Oswald
+%EndFont
+
